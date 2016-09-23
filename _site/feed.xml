@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>Kiko Plus</title>
-		<link>https://AWEEKJ.github.io</link>
-		<atom:link href="https://AWEEKJ.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<title>initd4</title>
+		<link>https://initd4.github.io</link>
+		<atom:link href="https://initd4.github.io/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>A Full and Comprehensive Style Test</title>
@@ -140,9 +140,9 @@
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 </description>
-				<pubDate>Mon, 15 Aug 2016 00:00:00 +0900</pubDate>
-				<link>https://AWEEKJ.github.io/2016-08-15/style-test/</link>
-				<guid isPermaLink="true">https://AWEEKJ.github.io/2016-08-15/style-test/</guid>
+				<pubDate>Mon, 15 Aug 2016 00:00:00 +0300</pubDate>
+				<link>https://initd4.github.io/2016-08-15/style-test/</link>
+				<guid isPermaLink="true">https://initd4.github.io/2016-08-15/style-test/</guid>
 			</item>
 		
 			<item>
@@ -219,18 +219,18 @@
   &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-				<pubDate>Fri, 16 Aug 2013 00:00:00 +0900</pubDate>
-				<link>https://AWEEKJ.github.io/2013-08-16/code-highlighting-post/</link>
-				<guid isPermaLink="true">https://AWEEKJ.github.io/2013-08-16/code-highlighting-post/</guid>
+				<pubDate>Fri, 16 Aug 2013 00:00:00 +0300</pubDate>
+				<link>https://initd4.github.io/2013-08-16/code-highlighting-post/</link>
+				<guid isPermaLink="true">https://initd4.github.io/2013-08-16/code-highlighting-post/</guid>
 			</item>
 		
 			<item>
 				<title>Sample Link Post</title>
         <description>
 </description>
-				<pubDate>Mon, 12 Aug 2013 00:00:00 +0900</pubDate>
-				<link>https://AWEEKJ.github.io/2013-08-12/sample-link-post/</link>
-				<guid isPermaLink="true">https://AWEEKJ.github.io/2013-08-12/sample-link-post/</guid>
+				<pubDate>Mon, 12 Aug 2013 00:00:00 +0300</pubDate>
+				<link>https://initd4.github.io/2013-08-12/sample-link-post/</link>
+				<guid isPermaLink="true">https://initd4.github.io/2013-08-12/sample-link-post/</guid>
 			</item>
 		
 			<item>
@@ -276,9 +276,9 @@
 
 &lt;p&gt;Aliquip enim artisan dolor post-ironic. Pug tote bag Marfa, deserunt pour-over Portland wolf eu odio intelligentsia american apparel ugh ea. Sunt viral et, 3 wolf moon gastropub pug id. Id fashion axe est typewriter, mlkshk Portland art party aute brunch. Sint pork belly Cosby sweater, deep v mumblecore kitsch american apparel. Try-hard direct trade tumblr sint skateboard. Adipisicing bitters excepteur biodiesel, pickled gastropub aute veniam.&lt;/p&gt;
 </description>
-				<pubDate>Tue, 22 May 2012 00:00:00 +0900</pubDate>
-				<link>https://AWEEKJ.github.io/2012-05-22/readability-post/</link>
-				<guid isPermaLink="true">https://AWEEKJ.github.io/2012-05-22/readability-post/</guid>
+				<pubDate>Tue, 22 May 2012 00:00:00 +0300</pubDate>
+				<link>https://initd4.github.io/2012-05-22/readability-post/</link>
+				<guid isPermaLink="true">https://initd4.github.io/2012-05-22/readability-post/</guid>
 			</item>
 		
 	</channel>
